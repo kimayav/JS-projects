@@ -153,6 +153,6 @@ function filterTasks(e) {
       task.style.display = 'block';
     } else {
       task.style.display = 'none';
-    }
+    }   
   });
 }
